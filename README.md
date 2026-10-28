@@ -4,7 +4,7 @@ I'm a Robotics and AI researcher working to unlock the **AGI moment — the "GPT
 
 🔭 **Current focus:** World Action Models for robotics — pairing generative world models like NVIDIA Cosmos with JEPA-style predictive architectures so humanoids can plan, act, and self-correct in a closed loop: when the robot fails, it learns from its own generated demonstration videos.
 
-🌱 Currently: Researcher (World Action Model) at MWS AI, and Graduate Student Researcher (Physical AI) at Skoltech ISR Lab.
+🌱 Currently: Physical AI Researcher at KURA and PhD at Khalifa University KUCAR Lab.
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jeffrin-s-a-m/)
 
